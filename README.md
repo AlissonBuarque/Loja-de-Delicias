@@ -1,1 +1,1 @@
-# Loja-de-Delicias
+# Blog-de-Delicias
